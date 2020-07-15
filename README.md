@@ -1,5 +1,9 @@
 ### Hi there 👋
+🔭 As of July 2020 I'm workinbg on an open source personal fitness tracker.
+It will be programmed in Golang for the backend with React for the frontend conneting to rest endpoints created in Go.
+I hope to bring this to Android devices by Decemeber 2020
 
+🌱 Currently I'm increasing my knowledge of React and SpringBoot to become more of a full stack developer.
 <!--
 **letkemanpete78/letkemanpete78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
